@@ -1,0 +1,6 @@
+import Fuente.parte1.*
+test "testX" {
+
+	assert.that(true)
+
+}
